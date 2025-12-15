@@ -1,0 +1,50 @@
+[
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 4,
+        "fields": {
+            "name": "samsung",
+            "description": "Phones"
+        }
+    },
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 5,
+        "fields": {
+            "name": "Huawei",
+            "description": "Cell Phones"
+        }
+    },
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 6,
+        "fields": {
+            "name": "Laptop",
+            "description": "Several ones"
+        }
+    },
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 8,
+        "fields": {
+            "name": "iPhone",
+            "description": "Description for iPhone"
+        }
+    },
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 9,
+        "fields": {
+            "name": "TV",
+            "description": "Description for TV"
+        }
+    },
+    {
+        "model": "storeProducts.productcategory",
+        "pk": 10,
+        "fields": {
+            "name": "Xiaomi",
+            "description": "Xiaomi is just experiment with create() method"
+        }
+    }
+]

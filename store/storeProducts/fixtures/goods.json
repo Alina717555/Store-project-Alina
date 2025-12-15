@@ -1,0 +1,242 @@
+[
+    {
+        "model": "storeProducts.product",
+        "pk": 2,
+        "fields": {
+            "name": "Huawei 5",
+            "description": "good to use",
+            "price": "100.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCws3Mp79lsImStS22b6ju3FY9t2tljaGh7Q&s",
+            "category": 5
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 3,
+        "fields": {
+            "name": "Macbook 14 pro",
+            "description": "macOS",
+            "price": "2000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_DkQLD0o2gAvMSGjGycGXXIsxGJNtN61ddtfSd_Ci2m3MaNbu5CBJNH8dy-ePAJGyTL0&usqp=CAU",
+            "category": 6
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 5,
+        "fields": {
+            "name": "Samsung Galaxy S24",
+            "description": "256 gb",
+            "price": "180.00",
+            "quantity": 100,
+            "image": "https://images.samsung.com/kz_ru/smartphones/galaxy-s24/images/galaxy-s24-share-image.jpg",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 6,
+        "fields": {
+            "name": "Galaxy Z Fold",
+            "description": "pinky pie",
+            "price": "10000.00",
+            "quantity": 31,
+            "image": "https://www.iport.ru/_next/image/?url=https%3A%2F%2Fcdn.iport.ru%2Fiblock%2F91a%2F91a37eae2c7c49d75f3bdd720ad8249f%2F588a7ee368d71fe98dbcd11b47d044c8.jpg&w=1080&q=80",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 7,
+        "fields": {
+            "name": "Galaxy A07",
+            "description": "black colored phone",
+            "price": "240.00",
+            "quantity": 100,
+            "image": "https://sanmi.kz/upload/iblock/0f1/61291251.jpg",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 8,
+        "fields": {
+            "name": "Computer",
+            "description": "black super puper",
+            "price": "600000.00",
+            "quantity": 90,
+            "image": "https://earth.labtop.com/pics/solution.jpg",
+            "category": 6
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 11,
+        "fields": {
+            "name": "Hwawei Pura",
+            "description": "strong",
+            "price": "3000.00",
+            "quantity": 70,
+            "image": "https://e-katalog.kz/jpg_zoom1/2671333.jpg",
+            "category": 5
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 12,
+        "fields": {
+            "name": "Hwawei ultra",
+            "description": "matte red beautiful",
+            "price": "500.00",
+            "quantity": 50,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQflgah4wtFu9VxnVdaZx-TyqjSNN4ST0xB8w&s",
+            "category": 5
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 13,
+        "fields": {
+            "name": "Hwawei P",
+            "description": "64 GB black",
+            "price": "40000.00",
+            "quantity": 80,
+            "image": "https://api.technodom.kz/f3/api/v1/images/290749_1.jpg",
+            "category": 5
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 14,
+        "fields": {
+            "name": "Samsung S21",
+            "description": "5 GB purple",
+            "price": "3000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb_RsJXg1eLT7b7ZoqGwZm8Xijsb_bJpC-Gw&s",
+            "category": 4
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 19,
+        "fields": {
+            "name": "Surface laptop",
+            "description": "Capilot+",
+            "price": "40000.00",
+            "quantity": 100,
+            "image": "https://microsoft-surface.ru/wp-content/uploads/2024/05/Surface-Laptop-6-Sapphire-1.png",
+            "category": 6
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 20,
+        "fields": {
+            "name": "HP Laptop",
+            "description": "2-in-1PCs/HP",
+            "price": "600.00",
+            "quantity": 59,
+            "image": "https://www.hp.com/content/dam/sites/worldwide/personal-computers/consumer/laptops-and-2-in-1s/new/bf-updates/media@2x1.jpg",
+            "category": 6
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 21,
+        "fields": {
+            "name": "Iphone 17 pro max",
+            "description": "orange , 512GB",
+            "price": "100000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThussNtyip2hzuXRY1weMfl_zZxoJejVRJTQ&s",
+            "category": 8
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 22,
+        "fields": {
+            "name": "iPhone 16 Pro Max",
+            "description": "Golden, 256 GB",
+            "price": "800000.00",
+            "quantity": 100,
+            "image": "https://gadgetstore.kz/wa-data/public/shop/products/64/10/1064/images/2903/2903.970.jpg",
+            "category": 8
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 23,
+        "fields": {
+            "name": "iPhone 17 air",
+            "description": "Thin, 65 GB , Sky blue",
+            "price": "500000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKlmDl0tu5eJ6syEIquDghGPAh_VzYQyQC5s0uROCTbBYOJ74I6PPZAFlzw2wDVZAHqc&usqp=CAU",
+            "category": 8
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 24,
+        "fields": {
+            "name": "iPhone 15",
+            "description": "Black, 256GB",
+            "price": "60000.00",
+            "quantity": 100,
+            "image": "https://cdn.evrika.com/storage/products/images/big/wXxiypgcsxWhok2o6cNdZY4yujBcwbkhK1fiSWS9.jpg.webp",
+            "category": 8
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 25,
+        "fields": {
+            "name": "LG,LED 43",
+            "description": "ThinQ,AI",
+            "price": "400000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNQdAQon0Zers0hZk675ixzYgLGryjo6lxKg&s",
+            "category": 9
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 26,
+        "fields": {
+            "name": "Samsung TV",
+            "description": "For big Family",
+            "price": "300000.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpo-Jl1Tl_NozKacoFr8bM3GWkY5DJZRM62n7Nkx844nNWv6ghtm7iBAfkh7B-kYEpjI&usqp=CAU",
+            "category": 9
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 27,
+        "fields": {
+            "name": "Galaxy TV",
+            "description": "Crystal UHB",
+            "price": "390000.00",
+            "quantity": 200,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8mg9QcqMXldOD-o0euWGosKofu5FON-mUahpZCU1NutPgnP3sdA_I7mM8Nt-UP0O7Tk&usqp=CAU",
+            "category": 9
+        }
+    },
+    {
+        "model": "storeProducts.product",
+        "pk": 28,
+        "fields": {
+            "name": "GLED TV",
+            "description": "Pink Girly TV for all divas",
+            "price": "4567899.00",
+            "quantity": 100,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV-Ny8XTQW3eRP7Zi4d0AJp47OWVHxJNxW6qmA2sHGcyZiZaLjBrkSHvGfrzvMsWcoGQc&usqp=CAU",
+            "category": 9
+        }
+    }
+]
